@@ -6,6 +6,5 @@ module.exports = {
 	minifyCSS: true,
 	minifyJS: true,
 	removeAttributeQuotes: true,
-	removeComments: true,
-	removeOptionalTags: true
+	removeComments: true
 };
