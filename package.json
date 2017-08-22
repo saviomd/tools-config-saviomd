@@ -1,6 +1,6 @@
 {
   "name": "tools-config-saviomd",
-  "version": "1.0.20161004",
+  "version": "1.0.20170822",
   "description": "Shareable config for Autoprefixer, Browsersync, cssnano, ESLint, htmlmin, Jade, stylelint, StyleStats",
   "author": "Sávio Mendes",
   "license": "MIT",
@@ -10,7 +10,7 @@
     "url": "https://github.com/saviomd/tools-config-saviomd.git"
   },
   "dependencies": {
-    "eslint-config-xo": "~0.15.4",
-    "stylelint-config-suitcss": "~8.0.0"
+    "eslint-config-xo": "^0.15.4",
+    "stylelint-config-suitcss": "^8.0.0"
   }
 }
