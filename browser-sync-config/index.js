@@ -9,5 +9,6 @@ module.exports = {
 	server: {
 		baseDir: './',
 	},
+	https: true,
 	startPath: '?a=0'
 }
