@@ -4,7 +4,7 @@ module.exports = {
 	"extends": "stylelint-config-suitcss",
 	"rules": {
 		"indentation": "tab",
-		"selector-no-id": true,
+		"selector-max-id": 0,
 		"selector-pseudo-element-colon-notation": "single"
 	}
 };
