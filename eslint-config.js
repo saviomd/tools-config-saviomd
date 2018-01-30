@@ -1,10 +1,9 @@
-// https://github.com/eslint/eslint/blob/master/conf/eslint.json
+// https://github.com/eslint/eslint/blob/master/conf/eslint-recommended.js
 
 module.exports = {
-	"extends": "xo",
+	"extends": "xo/esnext",
 	"env": {
 		"browser": true,
-		"es6": false,
 		"jquery": true,
 		"node": false
 	}
