@@ -1,7 +1,7 @@
 {
   "name": "tools-config-saviomd",
-  "version": "1.0.20180125",
-  "description": "Shareable config for Autoprefixer, Browsersync, cssnano, ESLint, htmlmin, Jade, stylelint, StyleStats",
+  "version": "1.0.20180811",
+  "description": "Shareable config for Autoprefixer, Browsersync, cssnano, ESLint, htmlmin, Pug, stylelint, StyleStats",
   "author": "Sávio Mendes",
   "license": "MIT",
   "private": true,

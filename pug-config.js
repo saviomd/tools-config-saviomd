@@ -1,4 +1,4 @@
-// http://jade-lang.com/api/
+// https://pugjs.org/api/reference.html
 
 module.exports = {
 	basedir: '_src',
